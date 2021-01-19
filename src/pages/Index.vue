@@ -109,7 +109,7 @@
           </div>
         </div>
         <div>
-          <q-scroll-area style="height: 530px;">
+          <q-scroll-area style="height: 505px;">
             <div
               v-for="index in 2"
               :key="index"
